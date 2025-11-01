@@ -34,7 +34,7 @@ A real-time scream detection application using machine learning that automatical
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd "Human scream detetction"
+cd "Human scream detection"
 ```
 
 2. Install dependencies:
