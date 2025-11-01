@@ -1,6 +1,6 @@
 The Outcome of this website is as Follows :
 
-<img width="811" height="526" alt="image" src="https://github.com/user-attachments/assets/82fd4905-ff2e-4f4f-854f-ea7e15cd6244" />
+<img width="872" height="587" alt="outcome" src="https://github.com/user-attachments/assets/01f85273-5f5d-4b14-8966-e8db6ed74766" />
 
                                    Signing Page of Scream detection app
 
