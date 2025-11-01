@@ -1,4 +1,5 @@
 The Outcome of this website is as Follows :
+
 <img width="811" height="526" alt="image" src="https://github.com/user-attachments/assets/82fd4905-ff2e-4f4f-854f-ea7e15cd6244" />
 
                                    Signing Page of Scream detection app
